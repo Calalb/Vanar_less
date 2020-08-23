@@ -1,0 +1,5 @@
+Salata Caesar | 65 | MDL
+Pizza Mario | 89 | MDL
+Coca Cola 0.5 | 15 | MDL
+Burger Classic | 45 | MDL
+Bere Corona Extra | 50 | MDL
